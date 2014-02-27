@@ -1,0 +1,10 @@
+{"Android":[{"itemname":"labtop","itemctegory":"hp","itemprice":"1000","itemquantity":"3"},
+{"itemname":"car","itemcategory":"BMW","itemprice":"60000","itemquantity":"2"},
+{"itemname":"book","itemcategory":"science","itemprice":"30","itemquantity":"6"},
+{"itemname":"shose","itemcategory":"Nike","itemprice":"400","itemquantity":"4"},
+{"itemname":"food","itemcategory":"frensh","itemprice":"50","itemquantity":"4"},
+{"itemname":"camera","itemcategory":"canon","itemprice":"5000","itemquantity":"5"},
+{"itemname":"tv","itemcategory":"samsung","itemprice":"6000","itemquantity":"1"},
+{"itemname":"smartphone","itemcategory":"iphone4","itemprice":"4000","itemquantity":"1"},
+{"itemname":"dessert","itemcategory":"chocholate","itemprice":"20","itemquantity":"2"},
+{"itemname":"drink","itemcategory":"coffe","itemprice":"30","itemquantity":"2"}]}
